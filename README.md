@@ -1,5 +1,17 @@
 # Buon APPetito
 
+Versión libre del reto. No soporto las Pizzas!!! así que he tirado por las hamburguesas ;-)
+No sabía si entendía bien la parte de dividir cada pizza en 4 partes, aunque ahora creo que sí lo sacaría...
+Creo que más o menos cumplo con los requisitos de mostrar el producto (en este caso en un viewpager), poder editar dicho producto quitándo los ingredientes que no te gusten, y añadiendo al carrito lo que desees comprar.
+También he intentado que se pueda realizar el pago mediante PayPal y algo he conseguido, aunque no se por qué falla el último paso, es como si no reconociese la cuenta que me he creado en paypal como SandBox.
+He implementado también el que puedas obtener más crédito al pulsar x veces sobre tu crédito inicial por si no tuvieras suficiente...
+Bueno, no se si es lo que se esperaba pero a mí me ha servido de mucho para practicar!!
+Gracias.
+
+
+
+# Buon APPetit
+
 If there is a recurrent software product, an online shop is one of them!
 
 The aim of this Challenge is to create an amazing app that allows your business to handle orders from users who are
